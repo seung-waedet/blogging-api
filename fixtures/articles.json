@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Understanding CSS Positioning",
+        "description": "Simple explanation of CSS positioning",
+        "tags": ["newbies", "css"],
+        "body": "Positioning can seem daunting at first for everyone new to css. In this article I'll explain ....."
+    },
+
+    {
+        "title": "Closures in Javascript",
+        "description": "Detailed explanation of JavaScript Closures",
+        "tags": ["javascript", "programming"],
+        "body": "Closure means that a function have access to it's outer functions. In Js, every function is a closure except functions created using the new function keywor."
+    }
+]
